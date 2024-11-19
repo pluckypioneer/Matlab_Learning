@@ -12,22 +12,22 @@
 
 笔记目录：
 
-·[基础操作与矩阵输入]()
+· [基础操作与矩阵输入]()
 
-·[结构化程序与自定义函数]()
+· [结构化程序与自定义函数]()
 
-·[变量与档案存储]()
+· [变量与档案存储]()
 
-·[初阶绘图](https://github.com/pluckypioneer/Matlab_Learning/blob/b7b7fea73a8b52766c2d229deb89b34219ee73ac/%E5%88%9D%E9%98%B6%E7%BB%98%E5%9B%BE.pdf)
+· [初阶绘图](https://github.com/pluckypioneer/Matlab_Learning/blob/b7b7fea73a8b52766c2d229deb89b34219ee73ac/%E5%88%9D%E9%98%B6%E7%BB%98%E5%9B%BE.pdf)
 
-·[高阶绘图]()
+· [高阶绘图]()
 
-·[多项式微积分与数值微积分]()
+· [多项式微积分与数值微积分]()
 
-·[方程式求根]()
+· [方程式求根]()
 
-·[回归与内插]()
+· [回归与内插]()
 
-·[线性方程式与线性系统]()
+· [线性方程式与线性系统]()
 
 在此对[郭彦甫老师](https://youtube.com/@yanfukuo?si=eNjOaJ9VxSInWmxt)表示感谢！
