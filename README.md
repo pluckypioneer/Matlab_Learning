@@ -28,6 +28,6 @@
 
 · [回归与内插](https://github.com/pluckypioneer/Matlab_Learning/blob/2c4683e79b22be632ba858f4c762d65e47505828/%E5%9B%9E%E5%BD%92%E4%B8%8E%E5%86%85%E6%8F%92.pdf)
 
-· [线性方程式与线性系统]()
+· [线性方程式与线性系统](https://github.com/pluckypioneer/Matlab_Learning/blob/986988076bce2516e5c10a786607f215af566df4/%E7%BA%BF%E6%80%A7%E6%96%B9%E7%A8%8B%E5%BC%8F%E4%B8%8E%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F.pdf)
 
 在此对[郭彦甫老师](https://youtube.com/@yanfukuo?si=eNjOaJ9VxSInWmxt)表示感谢！
