@@ -6,4 +6,6 @@
 
 课程视频链接：[点击此处](https://youtu.be/KHFZLkm9qs0)
 
+教材:[点击此处]()：
+
 在此对[郭彦甫老师](https://youtube.com/@yanfukuo?si=eNjOaJ9VxSInWmxt)表示感谢！
