@@ -1,6 +1,6 @@
 # Matlab_Learning
 
-![MATLAB]()
+![MATLAB](https://github.com/pluckypioneer/Matlab_Learning/blob/4f8fea3bf12017e24e80325d6e5f5695d9a884e7/MATLAB.jpg)
 
 本仓库中的笔记均为我本人在学习NTU的郭彦甫老师的课程时整理的部分笔记。现在上传，以供大家参考。
 
