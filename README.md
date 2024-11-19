@@ -30,6 +30,6 @@
 
 · [线性方程式与线性系统](https://github.com/pluckypioneer/Matlab_Learning/blob/986988076bce2516e5c10a786607f215af566df4/%E7%BA%BF%E6%80%A7%E6%96%B9%E7%A8%8B%E5%BC%8F%E4%B8%8E%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F.pdf)
 
-值得注意的是本项目有且仅限于MATLAB初阶的学习，用于了解MATLAB的简单使用。如需进阶学习，我在此推荐两个项目：[Matlab101](https://github.com/101Hub/Matlab101),[Matlab_deep_learning](https://github.com/decouples/Matlab_deep_learning)
+值得注意的是本项目有且仅限于MATLAB初阶的学习，用于了解MATLAB的简单使用。如需进阶学习，我在此推荐几个项目：[Matlab101](https://github.com/101Hub/Matlab101)，[Matlab_deep_learning](https://github.com/decouples/Matlab_deep_learning)，[Coursera-ML-using-matlab-python](https://github.com/TingNie/Coursera-ML-using-matlab-python)
 
 最后，在此对[郭彦甫老师](https://youtube.com/@yanfukuo?si=eNjOaJ9VxSInWmxt)及其课程表示感谢！
