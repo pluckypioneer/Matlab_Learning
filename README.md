@@ -38,9 +38,8 @@
 
 <a href="https://star-history.com/#maboloshi/github-chinese&Timeline">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=maboloshi/github-chinese&type=Timeline&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=maboloshi/github-chinese&type=Timeline" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=maboloshi/github-chinese&type=Timeline" width="75%" />
+ ## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=pluckypioneer/Matlab_Learning&type=Date)](https://star-history.com/#pluckypioneer/Matlab_Learning&Date)
   </picture>
 </a>
 
