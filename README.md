@@ -6,6 +6,8 @@
 
 课程视频链接：[点击此处](https://youtu.be/KHFZLkm9qs0)
 
-教材:[点击此处]()：
+教材:[点击此处](https://github.com/pluckypioneer/Matlab_Learning/blob/a632cf48f82f6616fc3e23464839407788becdb5/MATLAB%20%E5%9F%BA%E7%A1%80%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8-.pdf)：
+
+官方help文档:[点击此处]()
 
 在此对[郭彦甫老师](https://youtube.com/@yanfukuo?si=eNjOaJ9VxSInWmxt)表示感谢！
