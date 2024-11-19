@@ -33,3 +33,6 @@
 值得注意的是本项目有且仅限于MATLAB初阶的学习，用于了解MATLAB的简单使用。如需进阶学习，我在此推荐几个项目：[Matlab101](https://github.com/101Hub/Matlab101)，[Matlab_deep_learning](https://github.com/decouples/Matlab_deep_learning)，[Coursera-ML-using-matlab-python](https://github.com/TingNie/Coursera-ML-using-matlab-python)
 
 最后，在此对[郭彦甫老师](https://youtube.com/@yanfukuo?si=eNjOaJ9VxSInWmxt)及其课程表示感谢！
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议</a>进行许可。
