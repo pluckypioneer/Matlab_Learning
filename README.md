@@ -6,11 +6,11 @@
 
 课程视频链接：[点击此处](https://youtu.be/KHFZLkm9qs0)
 
-教材:[点击此处](https://github.com/pluckypioneer/Matlab_Learning/blob/a632cf48f82f6616fc3e23464839407788becdb5/MATLAB%20%E5%9F%BA%E7%A1%80%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8-.pdf)：
+我所在学校使用的教材:[点击此处](https://github.com/pluckypioneer/Matlab_Learning/blob/a632cf48f82f6616fc3e23464839407788becdb5/MATLAB%20%E5%9F%BA%E7%A1%80%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8-.pdf)：
 
 官方help文档:[点击此处](https://github.com/pluckypioneer/Matlab_Learning/blob/ba42c9a44017561747f628d6dbb8079dec93e72a/Matlab_help_document.pdf)
 
-笔记目录：
+**笔记目录：**
 
 · [基础操作与矩阵输入](https://github.com/pluckypioneer/Matlab_Learning/blob/4f9a1b6cb3549df86eabfca1fc89aa760b746074/%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C%E5%8F%8A%E7%9F%A9%E9%98%B5%E8%BE%93%E5%85%A5.pdf)
 
