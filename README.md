@@ -24,7 +24,7 @@
 
 · [多项式微积分与数值微积分](https://github.com/pluckypioneer/Matlab_Learning/blob/3135c5c45cf95f66308846f0c6d356ee7b0ab562/%E5%A4%9A%E9%A0%85%E5%BC%8F%E5%BE%AE%E7%A9%8D%E5%88%86%E8%88%87%E6%95%B8%E5%80%BC%E5%BE%AE%E7%A9%8D%E5%88%86.pdf)
 
-· [方程式求根]()
+· [方程式求根](https://github.com/pluckypioneer/Matlab_Learning/blob/e6463c27c5ece56c3ccdf0c2e6f5cbfb69702aa7/%E6%96%B9%E7%A8%8B%E5%BC%8F%E6%B1%82%E6%A0%B9.pdf)
 
 · [回归与内插](https://github.com/pluckypioneer/Matlab_Learning/blob/2c4683e79b22be632ba858f4c762d65e47505828/%E5%9B%9E%E5%BD%92%E4%B8%8E%E5%86%85%E6%8F%92.pdf)
 
