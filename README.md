@@ -22,7 +22,7 @@
 
 · [高阶绘图]()
 
-· [多项式微积分与数值微积分]()
+· [多项式微积分与数值微积分](https://github.com/pluckypioneer/Matlab_Learning/blob/3135c5c45cf95f66308846f0c6d356ee7b0ab562/%E5%A4%9A%E9%A0%85%E5%BC%8F%E5%BE%AE%E7%A9%8D%E5%88%86%E8%88%87%E6%95%B8%E5%80%BC%E5%BE%AE%E7%A9%8D%E5%88%86.pdf)
 
 · [方程式求根]()
 
