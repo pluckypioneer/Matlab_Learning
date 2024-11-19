@@ -26,7 +26,7 @@
 
 · [方程式求根]()
 
-· [回归与内插]()
+· [回归与内插](https://github.com/pluckypioneer/Matlab_Learning/blob/2c4683e79b22be632ba858f4c762d65e47505828/%E5%9B%9E%E5%BD%92%E4%B8%8E%E5%86%85%E6%8F%92.pdf)
 
 · [线性方程式与线性系统]()
 
