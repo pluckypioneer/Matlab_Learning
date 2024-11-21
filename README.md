@@ -1,6 +1,6 @@
 # ![MATLAB](https://github.com/pluckypioneer/Matlab_Learning/blob/4f8fea3bf12017e24e80325d6e5f5695d9a884e7/MATLAB.jpg)Matlab_Learning
 
-本仓库中的笔记均为我本人在学习NTU的郭彦甫老师的课程时整理的部分笔记。现在上传，以供大家参考。
+本仓库中的笔记均为我本人在学习NTU郭彦甫老师的MATLAB课程时整理的部分笔记。现在上传，以供大家参考。
 
 课程配套ppt链接:[点击此处](https://www.mlmvlab.bime.ntu.edu.tw/matlab-%E4%B9%8B%E5%B7%A5%E7%A8%8B%E6%87%89%E7%94%A8)
 
