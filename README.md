@@ -45,4 +45,4 @@
 </a>
 
 ## License
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />本作品采用[MIT License](https://github.com/pluckypioneer/Matlab_Learning/blob/main/LICENSE)进行许可。
+本作品采用[MIT License](https://github.com/pluckypioneer/Matlab_Learning/blob/main/LICENSE)进行许可。
